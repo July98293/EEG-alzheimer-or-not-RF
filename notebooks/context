@@ -1,0 +1,7 @@
+Accuracy 0.72 
+AUC 0.85
+F1 0.75 
+Precision 0.75
+Recall 0.75 
+
+The datatabse contain 65 subjects, divided in 5 groups of 13, if even 1 in wrong, the meteric is much affected
