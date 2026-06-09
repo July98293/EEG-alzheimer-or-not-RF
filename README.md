@@ -150,21 +150,7 @@ pytest tests/
 
 This project uses only AD and CN subjects (65 total). FTD subjects are excluded for binary classification.
 
----
 
-## Citation
-
-Please cite the original dataset:
-
-```bibtex
-@article{miltiadous2023dataset,
-  title={A Dataset of Scalp EEG Recordings of Alzheimer's Disease,
-         Frontotemporal Dementia and Healthy Subjects from Routine EEG},
-  author={Miltiadous, Andreas and others},
-  journal={Data},
-  volume={8},
-  number={6},
-  pages={95},
   year={2023},
   doi={10.3390/data8060095}
 }
